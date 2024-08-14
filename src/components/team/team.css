@@ -1,0 +1,5 @@
+img {
+    width: 250px; /* Ensures the image fits within the div */
+    height: 250px; /* Ensures the image fits within the div */
+    object-fit: cover; /* Ensures the image maintains its aspect ratio */
+  }
